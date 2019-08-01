@@ -1,1 +1,3 @@
 print('hello')
+str = 'world'
+print('hello'+str)
